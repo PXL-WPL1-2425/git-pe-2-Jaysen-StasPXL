@@ -22,3 +22,13 @@ a {
     color: white;
     font-size: 14pt;
 }
+
+#sign_in {
+    display: flex;
+    background-color: red;
+    border: black solid 1px;
+    text-decoration: none;
+    border-radius: 25px;
+    padding: 5px 10px;
+    color: black;
+}
